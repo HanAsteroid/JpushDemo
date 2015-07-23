@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\work\JpushDemo\app\libs\jpush-sdk-release1.7.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c10bf1a834e7a2caa3832c29b530e1ae7cfad0a2">
+        <dex dex="D:\work\JpushDemo\app\build\intermediates\pre-dexed\debug\jpush-sdk-release1.7.5-5b99fd3100183a70fcc5d2aff37b1021bf011f60.jar" />
+    </item>
+
+</items>
